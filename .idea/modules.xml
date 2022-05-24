@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/C4S1-MicroservicesLoadbalancing.iml" filepath="$PROJECT_DIR$/.idea/C4S1-MicroservicesLoadbalancing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserAuthenticationService/userauthenticationservice.iml" filepath="$PROJECT_DIR$/UserAuthenticationService/userauthenticationservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserMovieService/usermovieservice.iml" filepath="$PROJECT_DIR$/UserMovieService/usermovieservice.iml" />
+    </modules>
+  </component>
+</project>
